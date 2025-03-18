@@ -21,10 +21,7 @@ The objective of these exercises is to analyze textual data using various text m
 
 - Python
 - Google Colab
-- Pandas
-- NLTK
-- Scikit-learn
-- Matplotlib & Seaborn
+- `pandas`, `matplotlib`, `Seaborn`, `scikit-learn`, `NLTK`
 
 ## Sample Visuals
 
