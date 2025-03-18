@@ -33,4 +33,4 @@ The objective of these exercises is to analyze textual data using various text m
 ![image](https://github.com/user-attachments/assets/59c9121b-9e67-40eb-99b0-d73b928f90d7)
 
 
-This project demonstrates my ability to work with structured and unstructured data, apply text mining techniques, and extract meaningful insights through data analysis.
+This practice highlights essential skills in handling both structured and unstructured data, applying text mining techniques, and uncovering insights through analysis.
