@@ -18,7 +18,6 @@ The objective of these exercises is to analyze textual data using various text m
 - Data visualization with Matplotlib & Seaborn
 
 ## Technologies Used
-
 - Python
 - Google Colab
 - `pandas`, `matplotlib`, `Seaborn`, `scikit-learn`, `NLTK`
